@@ -9,7 +9,7 @@ every 15 minutes via the saved cron job.
 
 ## Installation
 
-The first rpi must have paramiko install.
+Ensure that the rpi has paramiko installed for ssh.
 
 ```bash
 pip3 install -r requirements.txt
