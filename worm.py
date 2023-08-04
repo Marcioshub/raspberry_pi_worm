@@ -26,7 +26,8 @@ wordlist = [
     "abc123",
     "password",
     "password1",
-    "passw0rd"
+    "passw0rd",
+    "happy"
 ]
 
 # check local hosts.txt file for faster reconnection
